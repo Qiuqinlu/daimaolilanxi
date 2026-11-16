@@ -1,0 +1,5 @@
+a=float(input("第一个数:"))
+b=float(input("第二个数:"))
+print("加:",a+b)
+print("减:",a-b)
+print("乘:",a*b)
